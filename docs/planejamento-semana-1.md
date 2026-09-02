@@ -105,3 +105,5 @@ projeto-chamados/
 
 **Dúvida em aberto:**
 - Uma pessoa atendente poderá reabrir um chamado já encerrado, ou isso exigirá a abertura de um novo chamado?
+
+[text](https://github.com/Emanuelegomez/projeto_chamados)
